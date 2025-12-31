@@ -1,2 +1,2 @@
 # Git-Exercise
-Here we will exercise doing a collaborative git project
+Here, we will practice working on a collaborative Git project.
